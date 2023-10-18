@@ -1,2 +1,3 @@
 # MyNewGitRepo
-Author: Siddhant
+
+Author: Siddhant Sharma
