@@ -1,1 +1,2 @@
-# MyNewgitrepo
+# MyNewGitRepo
+Author: Siddhant
